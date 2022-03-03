@@ -1,3 +1,4 @@
+window.alert("Please turn your volumr up for best results.")
 var rpm;
 var context = new AudioContext, oscillator;
 
